@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="devil-weixin">
+    <wb-module deploy-name="wx-dev">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="devil-weixin"/>
-        <property name="java-output-path" value="/devil-weixin/WebRoot/WEB-INF/classes"/>
+        <property name="java-output-path" value="/wx-dev/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="wx-dev"/>
     </wb-module>
 </project-modules>
